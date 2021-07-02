@@ -8,7 +8,7 @@ Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne
 Linda, lead data scientist, vous demande donc d'étudier la faisabilité d'un moteur de classification des articles en différentes catégories, avec un niveau de précision suffisant.
 Les données
 
-Linda vous a fourni un premier jeu de données d’articles avec le lien pour télécharger la photo et une description associée.
+Linda vous a fourni un premier jeu de données (https://www.kaggle.com/garbamoussa/flipkart)  d’articles avec le lien pour télécharger la photo et une description associée.
 Votre mission
 Votre mission est de réaliser une première étude de faisabilité d'un moteur de classification d'articles basé sur une image et une description pour l'automatisation de l'attribution de la catégorie de l'article.
 Vous analyserez le jeu de données en réalisant un prétraitement des images et des descriptions des produits, une réduction de dimension, puis un clustering. Les résultats du clustering seront présentés sous la forme d’une représentation en deux dimensions à déterminer, qui ’illustrera le fait que les caractéristiques extraites permettent de regrouper des produits de même catégorie.
